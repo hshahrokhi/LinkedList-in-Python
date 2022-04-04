@@ -1,0 +1,12 @@
+This is an implemetation of a one-directional linkedlist in python.
+
+Each element of LinkedList is represented with a node that stores data and next element in the LinkedList
+
+The LinkedList supports the following methods:
+
+	• insert_at_begining
+	• insert_at_end
+	• insert_after
+	• insert_before
+	• delete
+
